@@ -1,0 +1,4 @@
+numpy==1.22.3
+pandas==1.4.2
+pyarrow==8.0.0
+fsspec==2022.3.0
